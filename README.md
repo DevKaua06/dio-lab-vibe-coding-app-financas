@@ -10,7 +10,7 @@ A aplicação está disponível online para testes e demonstração:
  
 # Capturas de Tela
 
-![imagem do app de finaças](4DA033B2-FA1C-4952-A9FB-9D855B790E44}.png)
+![imagem do app de finaças]({4DA033B2-FA1C-4952-A9FB-9D855B790E44}.png)
  
 ## Dashboard
  
